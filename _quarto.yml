@@ -11,7 +11,7 @@ website:
     background: "#76881d"
     foreground: white
     right:
-      - href: home.qmd
+      - href: index.qmd
         text: Home
       - href: research.qmd
         text: Research
