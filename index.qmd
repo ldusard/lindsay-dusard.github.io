@@ -1,7 +1,6 @@
 ---
 title: "Lindsay Dusard"
 subtitle: "Ph.D. Candidate, Quantitative Methods<br>University of Pennsylvania"
-text: "ldusard @ upenn.edu"
 image: images/ldusard_headshot.jpg
 page-layout: full
 about: 
