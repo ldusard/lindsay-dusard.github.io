@@ -1,8 +1,7 @@
 project:
   type: website
-  output-dir: docs
   resources:
-    - "/Users/lindsaydusard/Lindsay Dusard/"
+    - "images/*"
 
 website:
   title: "Lindsay Dusard"
