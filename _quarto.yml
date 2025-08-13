@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - "/Users/lindsaydusard/Lindsay Dusard/"
+
+website:
+  title: "Lindsay Dusard"
+  search: false
+  navbar:
+    background: "#76881d"
+    foreground: white
+    right:
+      - href: home.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: technical assistance.qmd
+        text: Technical Assistance
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+  page-footer: 
+    right: 
+        - text: "Built with Quarto <br>View source on Github"
+    border: true
+    
+
+format:
+  html:
+    theme: solar
+    css: styles.css
+    fontcolor: white
+    toc: false
+
+editor: visual
+

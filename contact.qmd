@@ -1,0 +1,19 @@
+---
+title: "Let's talk!"
+about: 
+  template: jolla
+  image-alt: "professional headshot of Lindsay Dusard"
+  image-width: 16em
+  links: 
+    - text: "{{< iconify mdi:linkedin size=2.2em >}}"
+      aria-label: Linkedin
+      href: https://www.linkedin.com/in/lindsay-dusard-b2432788/
+    - text: "{{< iconify bi:bluesky size=2em >}}" 
+      href: https://web-cdn.bsky.app/profile/lindsaydusard.bsky.social
+    - text: "{{< iconify fa github size=1.9em >}}"
+      href: https://github.com/ldusard
+    - text: "{{< iconify academicons google-scholar-square size=2em >}}" 
+      href: https://scholar.google.com/citations?user=_7mO8oQAAAAJ&hl=en
+---
+
+Feel free to reach me at ldusard \@ upenn.edu.
