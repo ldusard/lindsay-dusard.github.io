@@ -1,6 +1,5 @@
 ---
-<<<<<<< HEAD
-title: ""
+title: "Teaching"
 ---
 
 ## Teaching Experience
@@ -44,7 +43,4 @@ In addition to these teaching responsibilities, I have met regularly with master
 #### EDUC 8629: Statistical and Design Considerations in Policy Research (2023)
 
 -   Under [Michael J. Rovine](https://www.gse.upenn.edu/faculty/michael-rovine)
-=======
-title: "Teaching"
----
->>>>>>> 721022a72b4d30d3a6dc3df28d65683929e9cc15
+

@@ -24,9 +24,9 @@ website:
         text: Contact
   
   page-footer: 
-    right: 
-        - text: 'Built with Quarto <br>View source on <a href="https://github.com/ldusard/lindsay-dusard.github.io" >Github</a>'    
+    center: "Built with Quarto <br>View source on <a href='https://github.com/ldusard/lindsay-dusard.github.io' >Github</a>"
     border: true
+    background: "#246363"
     
 
 format:
