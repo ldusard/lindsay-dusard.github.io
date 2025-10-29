@@ -7,7 +7,7 @@ website:
   title: "Lindsay Dusard"
   search: false
   navbar:
-    background: "#76881d"
+    background: "#246363"
     foreground: white
     right:
       - href: index.qmd
@@ -17,14 +17,15 @@ website:
       - href: teaching.qmd
         text: Teaching
       - href: technical assistance.qmd
-        text: Technical Assistance
+        text: Other Work
       - href: cv.qmd
         text: CV
       - href: contact.qmd
         text: Contact
+  
   page-footer: 
     right: 
-        - text: "Built with Quarto <br>View source on Github"
+        - text: 'Built with Quarto <br>View source on <a href="https://github.com/ldusard/lindsay-dusard.github.io" >Github</a>'    
     border: true
     
 
@@ -33,6 +34,7 @@ format:
     theme: solar
     css: styles.css
     fontcolor: white
+    linkcolor: "#d6eda1"
     toc: false
 
 editor: visual

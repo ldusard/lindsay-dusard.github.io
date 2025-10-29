@@ -13,8 +13,6 @@ about:
       href: https://www.linkedin.com/in/lindsay-dusard-b2432788/
     - text: "{{< iconify bi:bluesky size=2em >}}" 
       href: https://web-cdn.bsky.app/profile/lindsaydusard.bsky.social
-    - text: "{{< iconify fa github size=1.9em >}}"
-      href: https://github.com/ldusard
     - text: "{{< iconify academicons google-scholar-square size=2em >}}" 
       href: https://scholar.google.com/citations?user=_7mO8oQAAAAJ&hl=en
 ---
@@ -23,10 +21,10 @@ about:
 
 I am a Ph.D. candidate in Quantitative Methods at the [University of Pennsylvania Graduate School of Education](https://www.gse.upenn.edu/). I will also obtain an A.M. in Statistics and Data Science from [the Wharton School](https://www.wharton.upenn.edu/).
 
-My research primarily focuses on resettled refugees and other immigrants’ access to the safety net and how that access —or lack thereof —shapes their trajectories in the U.S. education system and workforce. This work is informed by over 10 years of experience supporting newcomer students and their families. My dissertation centers on a mixed-methods study exploring newcomer students’ receipt of federal and state financial aid, participation in safety net programs, and their postsecondary outcomes in Virginia.
+My research primarily focuses on resettled refugees and other immigrants’ access to the safety net and how that access—or lack thereof—shapes their trajectories in the U.S. education system and workforce. This work is informed by over 10 years of experience supporting newcomer students and their families. My dissertation uses a mixed-methods design to explore newcomer students’ receipt of federal and state financial aid, participation in safety net programs, and their postsecondary outcomes in Virginia.
 
-I am also interested in the advancing methodological approaches that help us better understand mechanisms and outcomes in social policy research. Recently, I have focused on text analysis, the integration of Community-Based Participatory Research (CBPR) methods in randomized controlled trials, and Bayesian Interpretation of Estimates (BASIE).
+I am also interested in advancing methodological approaches that help us better understand underlying mechanisms and outcomes in social policy research. Recently, I have focused on text analysis, the integration of community-based participatory research (CBPR) approaches in randomized controlled trials, and Bayesian Interpretation of Estimates (BASIE).
 
 As a predoctoral fellow with the [Institute of Education Sciences](https://www.gse.upenn.edu/student-life/enhancing-your-journey/research-opportunities/institute-education-sciences-predoctoral-training-program), I have completed yearlong research placements with the [Urban Institute’s](https://www.urban.org/expertise/immigration) Immigration Cross-Center Initiative and the [International Rescue Committee](https://www.rescue.org/).
 
-I am on the 2025-26 job market.
+**I am on the 2025-26 job market.**

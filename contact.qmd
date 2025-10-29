@@ -1,9 +1,7 @@
 ---
-title: "Let's talk!"
+title: "Let's chat!"
 about: 
   template: jolla
-  image-alt: "professional headshot of Lindsay Dusard"
-  image-width: 16em
   links: 
     - text: "{{< iconify mdi:linkedin size=2.2em >}}"
       aria-label: Linkedin
@@ -16,4 +14,4 @@ about:
       href: https://scholar.google.com/citations?user=_7mO8oQAAAAJ&hl=en
 ---
 
-Feel free to reach me at ldusard \@ upenn.edu.
+Feel free to reach me at ldusard (at) upenn (dot) edu.

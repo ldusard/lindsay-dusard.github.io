@@ -1,12 +1,14 @@
 ---
-title: "Teaching Experience"
+title: ""
 ---
 
-From my first job as a tutor at Kumon Learning Center, to managing after school and summer programs at the International Rescue Committee, to teaching graduate-level courses at the University of Pennsylvania, I find deep fulfillment in supporting young people on their unique academic journeys. I particularly enjoy teaching statistics to audiences that are intimidated by the subject (as I once was). I owe so much of my understanding of effective teaching to my mother, who dedicated her career to teaching elementary school.
+## Teaching Experience
 
-In addition to these teaching responsibilities, I have met regularly with master's students to support them with course selection, career guidance, and PhD applications.
+From my first job tutoring at a Kumon Learning Center, to managing after school and summer programs at the International Rescue Committee, to teaching graduate-level courses at the University of Pennsylvania, I find deep fulfillment in supporting young people on their academic journeys. I particularly enjoy teaching statistics to audiences that are intimidated by the subject (as I once was). I owe so much of my understanding of effective teaching to my mother, who dedicated her career to teaching elementary school.
 
-## Instructor 
+In addition to these teaching responsibilities, I have met regularly with master's students in my department to discuss course selection, career options, and PhD applications.
+
+## Instructor of Record
 
 #### **EDUC 6667: Introductory Statistics for Educational Research (2023, 2024)**
 
@@ -18,16 +20,26 @@ In addition to these teaching responsibilities, I have met regularly with master
 
 -   *"This course has been exceptionally well-organized. From start to finish, I always knew exactly what I was doing and where I stood in terms of progress. Lindsay consistently kept us informed about the course trajectory, ensuring we were aware of where we were in the syllabus at all times. Her lectures were incredibly well-structured and resourceful, covering all the essential topics in program evaluation. Despite the breadth of the material, I never felt overwhelmed. Lindsay is very considerate, always taking the time to understand her students' perspectives and offering support when needed. In each lecture, Lindsay consistently provided practical examples relevant to the topic and introduced key figures and articles related to the subject matter. Her lecture slides are comprehensive and serve as a valuable resource that I will continue to reference for learning long after the course has ended."*
 
--    *"I am truly grateful to Lindsay for being so accessible and creating an open space where we could always approach her with our challenges. She has consistently been incredibly supportive, helping to make our learning journey smoother and more manageable. In the context of our program, this course is invaluable, and I highly recommend that it continue to be offered in the same way Lindsay has designed it."*
+-   *"I am truly grateful to Lindsay for being so accessible and creating an open space where we could always approach her with our challenges. She has consistently been incredibly supportive, helping to make our learning journey smoother and more manageable. In the context of our program, this course is invaluable, and I highly recommend that it continue to be offered in the same way Lindsay has designed it."*
 
 ## Teaching Assistant
 
 #### EDUC 6667: Introductory Statistics for Educational Research (2022, 2023)
 
-#### EDUC 6680: Evaluation of Policies, Programs, and Projects (2023)
+-   Under [Wendy Chan](https://www.gse.upenn.edu/faculty/wendy-chan)
+
+#### EDUC 6680: Evaluation of Policies, Programs, and Projects (2022)
+
+-   Under [Robert F. Boruch](https://www.gse.upenn.edu/faculty/robert-f-boruch)
 
 #### EDUC 7668: Measurement Theory and Test Construction (2024, 2025)
 
+-   Under [Paul A. McDermott](https://www.gse.upenn.edu/faculty/paul-austin-mcdermott)
+
 #### EDUC 7671: Factor Analysis and Scale Development (2023)
 
+-   Under [Paul A. McDermott](https://www.gse.upenn.edu/faculty/paul-austin-mcdermott)
+
 #### EDUC 8629: Statistical and Design Considerations in Policy Research (2023)
+
+-   Under [Michael J. Rovine](https://www.gse.upenn.edu/faculty/michael-rovine)

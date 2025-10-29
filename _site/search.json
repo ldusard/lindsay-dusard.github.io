@@ -1,31 +1,31 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "cv.html",
+    "href": "cv.html",
     "title": "Lindsay Dusard",
     "section": "",
-    "text": "I am a Ph.D. candidate in Quantitative Methods at the University of Pennsylvania Graduate School of Education. I will also obtain an A.M. in Statistics and Data Science from the Wharton School.\nMy research primarily focuses on resettled refugees and other immigrants’ access to the safety net and how that access —or lack thereof —shapes their trajectories in the U.S. education system and workforce. This work is informed by over 10 years of experience supporting newcomer students and their families. My dissertation centers on a mixed-methods study exploring newcomer students’ receipt of federal and state financial aid, participation in safety net programs, and their postsecondary outcomes in Virginia.\nI am also interested in the advancing methodological approaches that help us better understand mechanisms and outcomes in social policy research. Recently, I have focused on text analysis, the integration of Community-Based Participatory Research (CBPR) methods in randomized controlled trials, and Bayesian Interpretation of Estimates (BASIE).\nAs a predoctoral fellow with the Institute of Education Sciences, I have completed yearlong research placements with the Urban Institute’s Immigration Cross-Center Initiative and the International Rescue Committee.\nI am on the 2025-26 job market."
+    "text": "Coming soon.\n\n:::"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "home.html",
-    "href": "home.html",
+    "objectID": "technical assistance.html",
+    "href": "technical assistance.html",
     "title": "Lindsay Dusard",
     "section": "",
-    "text": "I am a Ph.D. candidate in Quantitative Methods at the University of Pennsylvania Graduate School of Education. I will also obtain an A.M. in Statistics and Data Science from the Wharton School.\nMy research primarily focuses on resettled refugees and other immigrants’ access to the safety net and how that access —or lack thereof —shapes their trajectories in the U.S. education system and workforce. This work is informed by over 10 years of experience supporting newcomer students and their families. My dissertation centers on a mixed-methods study exploring newcomer students’ receipt of federal and state financial aid, participation in safety net programs, and their postsecondary outcomes in Virginia.\nI am also interested in the advancing methodological approaches that help us better understand mechanisms and outcomes in social policy research. Recently, I have focused on text analysis, the integration of Community-Based Participatory Research (CBPR) methods in randomized controlled trials, and Bayesian Interpretation of Estimates (BASIE).\nAs a predoctoral fellow with the Institute of Education Sciences, I have completed yearlong research placements with the Urban Institute’s Immigration Cross-Center Initiative and the International Rescue Committee.\nI am on the 2025-26 job market."
+    "text": "with Diana Guelespe. Blog for the Urban Institute. 2025."
   },
   {
-    "objectID": "home.html#section",
-    "href": "home.html#section",
+    "objectID": "technical assistance.html#blog",
+    "href": "technical assistance.html#blog",
     "title": "Lindsay Dusard",
     "section": "",
-    "text": "I am a Ph.D. candidate in Quantitative Methods at the University of Pennsylvania Graduate School of Education. I will also obtain an A.M. in Statistics and Data Science from the Wharton School.\nMy research primarily focuses on resettled refugees and other humanitarian immigrants’ access to the safety net and how that access —or lack thereof —shapes their trajectories in the U.S. education system and workforce. This work is informed by over 10 years of experience working with newcomer students and their families. My dissertation centers on a mixed-method study exploring newcomer students’ receipt of federal and state financial aid, participation in safety net programs, and their postsecondary outcomes in Virginia using novel data.\nI am also interested in advancing quantitative approaches that help us better understand mechanisms and outcomes in social policy research. Recently, I have focused on text analysis, the integration of Community-Based Participatory Research (CBPR) methods in randomized controlled trials, and Bayesian Interpretation of Estimates (BASIE).\nAs a pre-doctoral fellow with the Institute of Education Sciences, I have completed yearlong research placements with the Urban Institute’s Immigration Cross-Center Initiative and the International Rescue Committee."
+    "text": "with Diana Guelespe. Blog for the Urban Institute. 2025."
+  },
+  {
+    "objectID": "technical assistance.html#technical-assistance",
+    "href": "technical assistance.html#technical-assistance",
+    "title": "Lindsay Dusard",
+    "section": "Technical Assistance",
+    "text": "Technical Assistance\n\nWhat You Should Know About the Free Application for Federal Student Aid (FAFSA) Updates\nBlog for Switchboard. 2023.\n\n\nAccessing Federal Student Aid for Newcomers: The Latest Guidance from the U.S. Department of Education\nWebinar for Switchboard. 2023.\n\n\nAccessing Federal Student Aid for Refugee Youth and Adults: Resources and Tips for Successful Application Processing\nToolkit for Switchboard. 2023.\n\n\nCan Afghan Newcomers Access Title IV, Federal Student Aid? Answering FAQ’s About New Guidance from the U.S. Department of Education\nBlog for Switchboard. 2022.\n\n\nThe Golden Ticket: Accessing Financial Aid for Refugee Youth and Adults’\nWebinar for Switchboard. 2021.\n\n:::"
   },
   {
     "objectID": "research.html",
@@ -33,13 +33,6 @@
     "title": "Lindsay Dusard",
     "section": "",
     "text": "Lindsay Dusard and Wendy Castillo. 2025. Inquiry: Critical Thinking Across Disciplines\n\nPaper presented at SREE 2024 and APPAM 2024"
-  },
-  {
-    "objectID": "home.html#welcome",
-    "href": "home.html#welcome",
-    "title": "Lindsay Dusard",
-    "section": "",
-    "text": "I am a Ph.D. candidate in Quantitative Methods at the University of Pennsylvania Graduate School of Education. I will also obtain an A.M. in Statistics and Data Science from the Wharton School.\nMy research primarily focuses on resettled refugees and other immigrants’ access to the safety net and how that access —or lack thereof —shapes their trajectories in the U.S. education system and workforce. This work is informed by over 10 years of experience supporting newcomer students and their families. My dissertation centers on a mixed-methods study exploring newcomer students’ receipt of federal and state financial aid, participation in safety net programs, and their postsecondary outcomes in Virginia.\nI am also interested in the advancing methodological approaches that help us better understand mechanisms and outcomes in social policy research. Recently, I have focused on text analysis, the integration of Community-Based Participatory Research (CBPR) methods in randomized controlled trials, and Bayesian Interpretation of Estimates (BASIE).\nAs a predoctoral fellow with the Institute of Education Sciences, I have completed yearlong research placements with the Urban Institute’s Immigration Cross-Center Initiative and the International Rescue Committee.\nI am on the 2025-26 job market."
   },
   {
     "objectID": "research.html#peer-reviewed-research",
@@ -53,83 +46,55 @@
     "href": "research.html#works-in-progress",
     "title": "Lindsay Dusard",
     "section": "Works in Progress",
-    "text": "Works in Progress\n\nAssociations of caregiver investments and early childhood outcomes in refugee and host households in Uganda\nLindsay Dusard, Sarah Kabay, Dana McCoy, and Sharon Wolf\n\nPaper presented at SRCD 2025\n\n\n\nNewcomer Students Enrolled in Higher Education in Virginia: An Analysis of Financial Aid Access and Safety Net Participation\nLindsay Dusard\n\nPaper to be presented at APPAM 2025\n\n\n\nAssessing Changes in Teacher Reflections Using Sentiment-Based Textual Analysis\nWendy Chan, Xinhe (Lindsey) Lui, Lindsay Dusard, Chen Li, Mingjun Yang, Grace Barry, Abby Reisman, Timothy Patterson, Joseph Eisman, Avi Kaplan\n\nPaper pesented at AERA 2025, poster to be presented at SREE 2025\n\n\n\nPrior Selection in Bayesian Impact Analysis: A Simulation Study\nLindsay Dusard\n\nPaper to be presented at APPAM 2025\n\n\n\nRealities of researching together: Navigating tensions in community-based participatory research in causal studies\nWendy Castillo and Lindsay Dusard\n\n\nRefugee children’s receipt of and factors that impact their receipt of special education services in Virginia\nNicole Adams and Lindsay Dusard"
+    "text": "Works in Progress\n\nAssociations of caregiver investments and early childhood outcomes in refugee and host households in Uganda\nLindsay Dusard, Sarah Kabay, Dana C. McCoy, and Sharon Wolf\n\nPaper presented at SRCD 2025\n\n\n\nNewcomer Students Enrolled in Higher Education in Virginia: An Analysis of Financial Aid Access and Safety Net Participation\nLindsay Dusard\n\nPaper to be presented at APPAM 2025\nFunded by the Center for the Study of Ethnicity, Race, and Immigration (CSERI)\n\n\n\nAssessing Changes in Teacher Reflections Using Sentiment-Based Textual Analysis\nWendy Chan, Xinhe (Lindsey) Lui, Lindsay Dusard, Chen Li, Mingjun Yang, Grace Barry, Abby Reisman, Timothy Patterson, Joseph Eisman, Avi Kaplan\n\nPaper presented at AERA 2025, poster to be presented at SREE 2025\n\n\n\nPrior Selection in Bayesian Impact Analysis: A Simulation Study\nLindsay Dusard\n\nPaper to be presented at APPAM 2025\n\n\n\nRealities of researching together: Navigating tensions in community-based participatory research in causal studies\nWendy Castillo and Lindsay Dusard\n\n\nRefugee children’s receipt of and factors that impact their receipt of special education services in Virginia\nNicole Adams and Lindsay Dusard\n\n:::"
   },
   {
     "objectID": "teaching.html",
     "href": "teaching.html",
-    "title": "Teaching Experience",
+    "title": "Lindsay Dusard",
     "section": "",
-    "text": "From my first job as a tutor at Kumon Learning Center, to managing after school and summer programs at the International Rescue Committee, to teaching graduate-level courses at the University of Pennsylvania, I find deep fulfillment in supporting young people on their unique academic journeys. I particularly enjoy teaching statistics to audiences that are intimidated by the subject (as I once was). I owe so much of my understanding of effective teaching to my mother, who dedicated her career to teaching elementary school.\nIn addition to these teaching responsibilities, I have met regularly with master’s students to support them with course selection, career guidance, and PhD applications."
+    "text": "From my first job tutoring at a Kumon Learning Center, to managing after school and summer programs at the International Rescue Committee, to teaching graduate-level courses at the University of Pennsylvania, I find deep fulfillment in supporting young people on their academic journeys. I particularly enjoy teaching statistics to audiences that are intimidated by the subject (as I once was). I owe so much of my understanding of effective teaching to my mother, who dedicated her career to teaching elementary school.\nIn addition to these teaching responsibilities, I have met regularly with master’s students in my department to discuss course selection, career options, and PhD applications."
   },
   {
-    "objectID": "teaching.html#instructor",
-    "href": "teaching.html#instructor",
-    "title": "Teaching Experience",
-    "section": "Instructor",
-    "text": "Instructor\n\nEDUC 6667: Introductory Statistics for Educational Research (2023, 2024)\n\n“Incredibly supportive and modeled vulnerability, kindness, openness, patience. Opened the course with a social justice point of view. Available to help outside of class and so generous with her time. Structured the lectures logically and each one built on the last. I liked that lectures were interspersed with group work.”\n“The instructor made an intimidating subject matter for our class approachable and interesting. She offered a warm and welcoming space for questions and concerns. She checked in every class with how each student was feeling, and offered a great amount of flexible availability to meet outside of class for help. The instructor approached the content in the best manner she could considering the shortened course length.”\n\n\n\nEDUC 6680: Evaluation of Policies, Programs, and Projects (2024)\n\n“This course has been exceptionally well-organized. From start to finish, I always knew exactly what I was doing and where I stood in terms of progress. Lindsay consistently kept us informed about the course trajectory, ensuring we were aware of where we were in the syllabus at all times. Her lectures were incredibly well-structured and resourceful, covering all the essential topics in program evaluation. Despite the breadth of the material, I never felt overwhelmed. Lindsay is very considerate, always taking the time to understand her students’ perspectives and offering support when needed. In each lecture, Lindsay consistently provided practical examples relevant to the topic and introduced key figures and articles related to the subject matter. Her lecture slides are comprehensive and serve as a valuable resource that I will continue to reference for learning long after the course has ended.”\n“I am truly grateful to Lindsay for being so accessible and creating an open space where we could always approach her with our challenges. She has consistently been incredibly supportive, helping to make our learning journey smoother and more manageable. In the context of our program, this course is invaluable, and I highly recommend that it continue to be offered in the same way Lindsay has designed it.”"
+    "objectID": "teaching.html#teaching-experience",
+    "href": "teaching.html#teaching-experience",
+    "title": "Lindsay Dusard",
+    "section": "",
+    "text": "From my first job tutoring at a Kumon Learning Center, to managing after school and summer programs at the International Rescue Committee, to teaching graduate-level courses at the University of Pennsylvania, I find deep fulfillment in supporting young people on their academic journeys. I particularly enjoy teaching statistics to audiences that are intimidated by the subject (as I once was). I owe so much of my understanding of effective teaching to my mother, who dedicated her career to teaching elementary school.\nIn addition to these teaching responsibilities, I have met regularly with master’s students in my department to discuss course selection, career options, and PhD applications."
+  },
+  {
+    "objectID": "teaching.html#instructor-of-record",
+    "href": "teaching.html#instructor-of-record",
+    "title": "Lindsay Dusard",
+    "section": "Instructor of Record",
+    "text": "Instructor of Record\n\nEDUC 6667: Introductory Statistics for Educational Research (2023, 2024)\n\n“Incredibly supportive and modeled vulnerability, kindness, openness, patience. Opened the course with a social justice point of view. Available to help outside of class and so generous with her time. Structured the lectures logically and each one built on the last. I liked that lectures were interspersed with group work.”\n“The instructor made an intimidating subject matter for our class approachable and interesting. She offered a warm and welcoming space for questions and concerns. She checked in every class with how each student was feeling, and offered a great amount of flexible availability to meet outside of class for help. The instructor approached the content in the best manner she could considering the shortened course length.”\n\n\n\nEDUC 6680: Evaluation of Policies, Programs, and Projects (2024)\n\n“This course has been exceptionally well-organized. From start to finish, I always knew exactly what I was doing and where I stood in terms of progress. Lindsay consistently kept us informed about the course trajectory, ensuring we were aware of where we were in the syllabus at all times. Her lectures were incredibly well-structured and resourceful, covering all the essential topics in program evaluation. Despite the breadth of the material, I never felt overwhelmed. Lindsay is very considerate, always taking the time to understand her students’ perspectives and offering support when needed. In each lecture, Lindsay consistently provided practical examples relevant to the topic and introduced key figures and articles related to the subject matter. Her lecture slides are comprehensive and serve as a valuable resource that I will continue to reference for learning long after the course has ended.”\n“I am truly grateful to Lindsay for being so accessible and creating an open space where we could always approach her with our challenges. She has consistently been incredibly supportive, helping to make our learning journey smoother and more manageable. In the context of our program, this course is invaluable, and I highly recommend that it continue to be offered in the same way Lindsay has designed it.”"
   },
   {
     "objectID": "teaching.html#teaching-assistant",
     "href": "teaching.html#teaching-assistant",
-    "title": "Teaching Experience",
+    "title": "Lindsay Dusard",
     "section": "Teaching Assistant",
-    "text": "Teaching Assistant\n\nEDUC 6667: Introductory Statistics for Educational Research (2022, 2023)\n\n\nEDUC 6680: Evaluation of Policies, Programs, and Projects (2023)\n\n\nEDUC 7668: Measurement Theory and Test Construction (2024, 2025)\n\n\nEDUC 7671: Factor Analysis and Scale Development (2023)\n\n\nEDUC 8629: Statistical and Design Considerations in Policy Research (2023)"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "Lindsay Dusard",
-    "section": "",
-    "text": "Coming soon"
-  },
-  {
-    "objectID": "cv.html#instructor",
-    "href": "cv.html#instructor",
-    "title": "Teaching at the University of Pennsylvania",
-    "section": "",
-    "text": "EDUC 6667: Introductory Statistics for Educational Research (2023, 2024)\nEDUC 6680: Evaluation of Policies, Programs, and Projects (2024)"
-  },
-  {
-    "objectID": "cv.html#teaching-assistant",
-    "href": "cv.html#teaching-assistant",
-    "title": "Teaching at the University of Pennsylvania",
-    "section": "Teaching Assistant",
-    "text": "Teaching Assistant\nEDUC 6667: Introductory Statistics for Educational Research (2022, 2023)\nEDUC 6680: Evaluation of Policies, Programs, and Projects (2023)\nEDUC 7668: Measurement Theory and Test Construction (2024, 2025)\nEDUC 7671: Factor Analysis and Scale Development (2023)\nEDUC 8629: Statistical and Design Considerations in Policy Research (2023)"
-  },
-  {
-    "objectID": "technical assistance.html",
-    "href": "technical assistance.html",
-    "title": "Lindsay Dusard",
-    "section": "",
-    "text": "Blog for Switchboard (2023).\n\n\n\nWebinar for Switchboard (2023).\n\n\n\nToolkit for Switchboard(2023).\n\n\n\nBlog for Switchboard(2022).\n\n\n\nWebinar for Switchboard(2021)."
-  },
-  {
-    "objectID": "technical assistance.html#technical-assistance",
-    "href": "technical assistance.html#technical-assistance",
-    "title": "Lindsay Dusard",
-    "section": "",
-    "text": "Blog for Switchboard (2023).\n\n\n\nWebinar for Switchboard (2023).\n\n\n\nToolkit for Switchboard(2023).\n\n\n\nBlog for Switchboard(2022).\n\n\n\nWebinar for Switchboard(2021)."
-  },
-  {
-    "objectID": "technical assistance.html#blog",
-    "href": "technical assistance.html#blog",
-    "title": "Lindsay Dusard",
-    "section": "Blog",
-    "text": "Blog\n\nThe Travel Ban Doesn’t Just Keep People Out. It Also Hurts Families Who Are Already Here\nwith Diana Guelespe. Blog for the Urban Institute (2025)."
+    "text": "Teaching Assistant\n\nEDUC 6667: Introductory Statistics for Educational Research (2022, 2023)\n\nUnder Wendy Chan\n\n\n\nEDUC 6680: Evaluation of Policies, Programs, and Projects (2022)\n\nUnder Robert F. Boruch\n\n\n\nEDUC 7668: Measurement Theory and Test Construction (2024, 2025)\n\nUnder Paul A. McDermott\n\n\n\nEDUC 7671: Factor Analysis and Scale Development (2023)\n\nUnder Paul A. McDermott\n\n\n\nEDUC 8629: Statistical and Design Considerations in Policy Research (2023)\n\nUnder Michael J. Rovine\n\n\n:::"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "Let’s talk!",
+    "title": "Let’s chat!",
     "section": "",
-    "text": "Feel free to reach me at ldusard @ upenn.edu."
+    "text": "Feel free to reach me at ldusard (at) upenn (dot) edu.\n:::"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lindsay Dusard",
+    "section": "",
+    "text": "I am a Ph.D. candidate in Quantitative Methods at the University of Pennsylvania Graduate School of Education. I will also obtain an A.M. in Statistics and Data Science from the Wharton School.\nMy research primarily focuses on resettled refugees and other immigrants’ access to the safety net and how that access—or lack thereof—shapes their trajectories in the U.S. education system and workforce. This work is informed by over 10 years of experience supporting newcomer students and their families. My dissertation uses a mixed-methods design to explore newcomer students’ receipt of federal and state financial aid, participation in safety net programs, and their postsecondary outcomes in Virginia.\nI am also interested in advancing methodological approaches that help us better understand underlying mechanisms and outcomes in social policy research. Recently, I have focused on text analysis, the integration of community-based participatory research (CBPR) approaches in randomized controlled trials, and Bayesian Interpretation of Estimates (BASIE).\nAs a predoctoral fellow with the Institute of Education Sciences, I have completed yearlong research placements with the Urban Institute’s Immigration Cross-Center Initiative and the International Rescue Committee.\nI am on the 2025-26 job market.\n:::"
   },
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
     "title": "Lindsay Dusard",
     "section": "",
-    "text": "I am a Ph.D. candidate in Quantitative Methods at the University of Pennsylvania Graduate School of Education. I will also obtain an A.M. in Statistics and Data Science from the Wharton School.\nMy research primarily focuses on resettled refugees and other immigrants’ access to the safety net and how that access —or lack thereof —shapes their trajectories in the U.S. education system and workforce. This work is informed by over 10 years of experience supporting newcomer students and their families. My dissertation centers on a mixed-methods study exploring newcomer students’ receipt of federal and state financial aid, participation in safety net programs, and their postsecondary outcomes in Virginia.\nI am also interested in the advancing methodological approaches that help us better understand mechanisms and outcomes in social policy research. Recently, I have focused on text analysis, the integration of Community-Based Participatory Research (CBPR) methods in randomized controlled trials, and Bayesian Interpretation of Estimates (BASIE).\nAs a predoctoral fellow with the Institute of Education Sciences, I have completed yearlong research placements with the Urban Institute’s Immigration Cross-Center Initiative and the International Rescue Committee.\nI am on the 2025-26 job market."
+    "text": "I am a Ph.D. candidate in Quantitative Methods at the University of Pennsylvania Graduate School of Education. I will also obtain an A.M. in Statistics and Data Science from the Wharton School.\nMy research primarily focuses on resettled refugees and other immigrants’ access to the safety net and how that access—or lack thereof—shapes their trajectories in the U.S. education system and workforce. This work is informed by over 10 years of experience supporting newcomer students and their families. My dissertation uses a mixed-methods design to explore newcomer students’ receipt of federal and state financial aid, participation in safety net programs, and their postsecondary outcomes in Virginia.\nI am also interested in advancing methodological approaches that help us better understand underlying mechanisms and outcomes in social policy research. Recently, I have focused on text analysis, the integration of community-based participatory research (CBPR) approaches in randomized controlled trials, and Bayesian Interpretation of Estimates (BASIE).\nAs a predoctoral fellow with the Institute of Education Sciences, I have completed yearlong research placements with the Urban Institute’s Immigration Cross-Center Initiative and the International Rescue Committee.\nI am on the 2025-26 job market.\n:::"
   }
 ]
