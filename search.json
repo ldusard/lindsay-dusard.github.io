@@ -4,7 +4,7 @@
     "href": "cv.html",
     "title": "Lindsay Dusard",
     "section": "",
-    "text": "Download CV"
+    "text": "href=\"`r quarto::metadata$cv$pdf`\"\ntarget=\"_blank\"&gt;\n Download CV"
   },
   {
     "objectID": "technical assistance.html",
