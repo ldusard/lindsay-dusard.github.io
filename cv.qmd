@@ -1,5 +1,14 @@
 ---
 title: ""
+page-layout: full
+cv: 
+  pdf: images/LindsayDusard_CV2025_10.2025.pdf
 ---
 
-Coming soon.
+::: {style="text-align: center;"}
+<a class="btn btn-primary cv-download" href="images/LindsayDusard_CV2025_10.2025.pdf" target="_blank" style="background-color:#b3d47d; color:white; border: 1px solid #b3d47d"> <i class="fa-solid fa-file-arrow-down"></i>Download CV</a>
+
+<iframe src="images/LindsayDusard_CV2025_10.2025.pdf#zoom=80" width="80%" height="800px">
+
+</iframe>
+:::

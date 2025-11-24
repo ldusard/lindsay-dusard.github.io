@@ -2,6 +2,7 @@ project:
   type: website
   resources:
     - "images/*"
+    - "images/LindsayDusard_CV_11.25.pdf"
 
 website:
   title: "Lindsay Dusard"
@@ -38,4 +39,12 @@ format:
     toc: false
 
 editor: visual
+
+
+
+
+
+
+
+
 
