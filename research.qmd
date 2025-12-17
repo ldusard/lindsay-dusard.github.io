@@ -2,7 +2,7 @@
 title: ""
 ---
 
-## Peer-reviewed Research
+## Journal Articles
 
 #### [**Integrating Community-Based Participatory Research Methods in Randomized Controlled Trials: An Interdisciplinary Systematic Review**](https://doi.org/10.5840/inquiryct20254919)
 
@@ -10,7 +10,7 @@ Lindsay Dusard and [Wendy Castillo](https://www.montclair.edu/profilepages/view_
 
 -   *Paper presented at [SREE 2024](https://sree.confex.com/sree/2024/meetingapp.cgi/Paper/5695) and [APPAM 2024](https://appam.confex.com/appam/2024/meetingapp.cgi/Paper/55169)*
 
-## Manuscripts in Preparation
+## Working Papers
 
 #### **Associations of caregiver investments and early childhood outcomes in refugee and host households in Uganda**
 
@@ -26,11 +26,11 @@ Lindsay Dusard, [Sarah Kabay](https://poverty-action.org/people/sarah-kabay), [D
 
 ## Works in Progress
 
-#### **Newcomer Students Enrolled in Higher Education in Virginia: An Analysis of Financial Aid Access and Safety Net Participation**
+#### **Making the Dream Possible: Financial Aid, the Safety Net, and Refugee Students’ Postsecondary Outcomes.**
 
 Lindsay Dusard
 
--   *Paper to be presented at [APPAM 2025](https://convention2.allacademic.com/one/appam/appam25/index.php?cmd=Online+Program+View+Session&selected_session_id=2260282&PHPSESSID=1r6hdr7rrkprclpo44dqesj7ao)*
+-   *Paper presented at [APPAM 2025](https://convention2.allacademic.com/one/appam/appam25/index.php?cmd=Online+Program+View+Session&selected_session_id=2260282&PHPSESSID=1r6hdr7rrkprclpo44dqesj7ao)*
 -   *Funded by the [Center for the Study of Ethnicity, Race, and Immigration (CSERI)](https://cseri.sas.upenn.edu/)*
 
 #### **Realities of researching together: Navigating tensions in community-based participatory research in causal studies**
@@ -41,8 +41,6 @@ Lindsay Dusard
 
 Lindsay Dusard
 
--   *Paper to be presented at [APPAM 2025](https://convention2.allacademic.com/one/appam/appam25/index.php?cmd=Online+Program+View+Paper&selected_paper_id=2260845&PHPSESSID=1r6hdr7rrkprclpo44dqesj7ao)*
-
-#### **Refugee children’s receipt of and factors that impact their receipt of special education services in Virginia**
+#### **Factors Associated with Refugee Children’s Receipt of Special Education Services in Virginia.**
 
 [Nicole Adams](https://spcd.charlotte.edu/people/nicole-adams/) and Lindsay Dusard

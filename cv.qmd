@@ -2,13 +2,13 @@
 title: ""
 page-layout: full
 cv: 
-  pdf: images/LindsayDusard_CV_11.25.pdf
+  pdf: images/LindsayDusardCV_12.25.pdf
 ---
 
 ::: {style="text-align: center;"}
-<a class="btn btn-primary cv-download" href="images/LindsayDusard_CV_11.25.pdf" target="_blank" style="background-color:#b3d47d; color:white; border: 1px solid #b3d47d"> <i class="fa-solid fa-file-arrow-down"></i>Download CV</a>
+<a class="btn btn-primary cv-download" href="images/LindsayDusardCV_12.25.pdf" target="_blank" style="background-color:#b3d47d; color:white; border: 1px solid #b3d47d"> <i class="fa-solid fa-file-arrow-down"></i>Download CV</a>
 
-<iframe src="images/LindsayDusard_CV_11.25.pdf#zoom=80" width="80%" height="800px">
+<iframe src="images/LindsayDusardCV_12.25.pdf#zoom=80" width="80%" height="800px">
 
 </iframe>
 :::
