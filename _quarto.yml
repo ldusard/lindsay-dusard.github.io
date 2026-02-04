@@ -2,7 +2,7 @@ project:
   type: website
   resources:
     - "images/*"
-    - "images/LindsayDusardCV_12.25.pdf"
+    - "images/LindsayDusardCV_20262.pdf"
 
 website:
   title: "Lindsay Dusard"
