@@ -13,12 +13,12 @@ website:
     right:
       - href: index.qmd
         text: Home
-      - href: research.qmd
-        text: Research
-      - href: teaching.qmd
-        text: Teaching
-      - href: technical assistance.qmd
-        text: Other Work
+#      - href: research.qmd
+#        text: Research
+#      - href: teaching.qmd
+#        text: Teaching
+#      - href: technical assistance.qmd
+#        text: Other Work
       - href: cv.qmd
         text: CV
       - href: contact.qmd
